@@ -1,0 +1,5 @@
+requests
+python-dotenv
+python-telegram-bot==20.0  # Specify version for compatibility
+apscheduler
+pytz
